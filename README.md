@@ -1,5 +1,5 @@
 
-A site that shut down using -java script, html, css.
+A site on java script, html, css.
 
   Working with the tools:
 Express Router and Cookies, Express Session and Flash, Security, mongoDB, Cloudinery, receiving and sending requests.
