@@ -65,26 +65,12 @@
 - **Input Validation**: All inputs are thoroughly validated and sanitized to prevent malicious attacks.
 - **Flash Messages**: Enhance the user experience with flash messages, keeping users informed about their actions.
 
-## 🤝 Contributing
-Contributions are welcome! To contribute:
-- **Fork the repository**.
-- **Create a new branch** (`git checkout -b feature-branch`).
-- **Make your changes** and commit them (`git commit -m 'Add new feature'`).
-- **Push to the branch** (`git push origin feature-branch`).
-- **Open a pull request** with a detailed description of your changes.
-
-Please ensure all new code is well-documented and thoroughly tested.
-
-## 📜 License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ## 🙌 Acknowledgments
 - **Express.js** - A robust backend framework.
 - **MongoDB** - A flexible NoSQL database solution.
 - **Cloudinary** - For seamless image storage and management.
 - **Node.js** - The server-side environment powering the application.
-- **Security Best Practices** - For guiding the implementation of secure coding practices.
 
----
 
-This `README.md` provides a comprehensive guide to understanding, installing, and contributing to the Camps Review Site project.
+
